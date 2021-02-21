@@ -1,7 +1,6 @@
-import os.path
 
 # make byte array
-byteBuffer = bytearray([1, 2, 3, 4])
+byteBuffer = bytearray([1, 2, 3, 5])
 
 # make binary file
 out_file = open('testBin.bin', 'wb')
